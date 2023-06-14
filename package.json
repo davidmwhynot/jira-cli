@@ -1,14 +1,11 @@
 {
-  "name": "@davidmwhynot/jira-cl",
+  "name": "@davidmwhynot/jira-cli",
   "version": "1.2.3",
   "description": "A Jira command line client",
-  "author": "Eduardo Henao & Miguel Henao",
-  "contributors": [
-    {
-      "email": "davidmwhynot@gmail.com",
-      "name": "davidmwhynot"
-    }
-  ],
+  "author": {
+    "email": "davidmwhynot@gmail.com",
+    "name": "davidmwhynot"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -55,5 +52,6 @@
     "babel-preset-stage-0": "^6.24.1",
     "eslint": "^5.6.1",
     "watch": "^1.0.2"
-  }
+  },
+  "keywords": []
 }
